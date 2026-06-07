@@ -1,4 +1,4 @@
-# insanity-RAT
+# Powerful-RAT-Collection
 The BEST Private Remote Access Trojans. t.me/permxyzz
 
 Star the repository for quicker updates.
